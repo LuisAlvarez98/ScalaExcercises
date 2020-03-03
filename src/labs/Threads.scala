@@ -1,4 +1,5 @@
-package Lab03
+package labs
+
 import definitions.de._
 object Threads extends App {
 //    val t: Thread = Thread.currentThread

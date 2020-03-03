@@ -1,4 +1,5 @@
-package Lab03
+package labs
+
 import definitions.de._
 
 object Ex1 extends App {
